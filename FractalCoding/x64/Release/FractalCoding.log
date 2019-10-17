@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.cpp(361): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  main.cpp(361): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+main.cpp(566): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+main.cpp(568): warning C4101: 'finish' :참조되지 않은 지역 변수입니다.
+main.cpp(568): warning C4101: 'start' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  37 of 251 functions (14.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  FractalCoding.vcxproj -> E:\FractalCoding\x64\Release\FractalCoding.exe
+  FractalCoding.vcxproj -> E:\FractalCoding\x64\Release\FractalCoding.pdb (Full PDB)

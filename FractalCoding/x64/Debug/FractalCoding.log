@@ -1,0 +1,7 @@
+﻿  encoding.cpp
+c:\users\ajk94\desktop\fractalcoding\fractalcoding\encoding.cpp(340): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\ajk94\desktop\fractalcoding\fractalcoding\encoding.cpp(340): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  decoding.cpp
+  코드를 생성하고 있습니다...
+  FractalCoding.vcxproj -> C:\Users\AJK94\Desktop\FractalCoding\x64\Debug\FractalCoding.exe
+  FractalCoding.vcxproj -> C:\Users\AJK94\Desktop\FractalCoding\x64\Debug\FractalCoding.pdb (Partial PDB)
